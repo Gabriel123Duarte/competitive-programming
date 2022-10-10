@@ -8,11 +8,10 @@ using namespace std;
 #define pb push_back
 #define fst first
 #define snd second
-#define debug(x) cout << #x << " = " << x << endl;
 typedef long long ll;
 typedef pair<int, int> ii;
 
 int main(){
-
+	
 	return 0;
 }
